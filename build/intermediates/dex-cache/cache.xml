@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Android_Porjects\DragAndDraw\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Android_Porjects\DragAndDraw\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f8cf35e6753d2404e6da6bc2b8460278f48e0a9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android_Porjects\DragAndDraw\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="527f5596e2cb35f20980eae6a4677c406a19d640">
+        <dex dex="C:\Android_Porjects\DragAndDraw\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a00b9c11f7089f5cb324a07727b202927cf9f189\classes.dex" />
+    </item>
+
+</items>
